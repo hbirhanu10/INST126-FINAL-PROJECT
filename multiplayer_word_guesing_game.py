@@ -40,7 +40,7 @@ def game():
             if guess in w:
                 print("Good guess!")
                 if all(l in players[p] for l in w):
-                    print(f"{p} got it! The word was: {w}")
+                    print(f"{p} good work you got it! The word was: {w}")
                     return
             else:
                 print(f"Nope! {p} has " + str(max_tries - t - 1) + " tries left.")

@@ -55,4 +55,5 @@ Follow the on-screen instructions:
   - All players run out of tries.
 
 Ending Game
-The game concludes either when a player guesses the word correctly, or all players exhaust their 10 tries. Upon completion, the game will display the correct word if it wasn't guessed.
+The game concludes either when a player guesses the word correctly, or all players exhaust their 10 tries. Upon completion, the game will display the correct word if it wasn't guessed
+

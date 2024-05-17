@@ -1,8 +1,10 @@
 README: Multiplayer Word Guessing Game
 Description:
+
 This program is a console-based multiplayer word guessing game. Each player tries to guess a randomly selected word by inputting letters. They have 10 attempts to guess the word correctly.
 
 Features:
+
 Imports
 - `random`: This module is used to randomly select a word from a predefined list of words.
 
@@ -44,7 +46,8 @@ Main Block
 - `if __name__ == '__main__':`
 - This conditional ensures that the game starts only if the script is run as the main program, not when imported as a module in another script. It calls the `game()` function to start the game.
 
-How to Run the Game
+How to Run the Game:
+
 The game will start with the on-screen instructions:
 - The game will display a series of underscores representing the letters of the word to be guessed.
 - Players take turns entering letters. Type a letter and press Enter.
@@ -54,6 +57,7 @@ The game will start with the on-screen instructions:
 - One player guesses the word correctly, or
 - All players run out of tries.
 
-When Game Ends
+When Game Ends:
+
 The game concludes either when a player guesses the word correctly, or all players exhaust their 10 tries. Upon completion, the game will display the correct word if it wasn't guessed
 

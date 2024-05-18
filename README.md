@@ -61,7 +61,7 @@ When Game Ends:
 
 The game concludes either when a player guesses the word correctly, or all players exhaust their 10 tries. Upon completion, the game will display the correct word if it wasn't guessed
 
-  MIT License
+INST126 License
 
 Copyright (c) 2024 Hiyaw Birhanu
 
